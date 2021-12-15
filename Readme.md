@@ -53,6 +53,32 @@
             </table>
         </div>
     </details>
+    <details>
+        <summary>Aula 2 - Sintaxe e Operadores ✅</summary>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Conteúdo
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            Operadores
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Sintaxe e Operadores">Prática</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    <details>
 </div>
 
 ## History/Histórico
