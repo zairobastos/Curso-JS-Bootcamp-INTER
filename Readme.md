@@ -31,17 +31,17 @@
                     </tr>
                     <tr>
                         <td>
-                            <a href="Introdução ao JavaScript/Console">Console</a>
+                            <a href="https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Introdu%C3%A7%C3%A3o%20ao%20Javascript/Console">Console</a>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            <a href="Introdução ao JavaScript/JS na web">JavaScript em uma página da web</a>
+                            <a href="https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Introdu%C3%A7%C3%A3o%20ao%20Javascript/JS%20na%20web">JavaScript em uma página da web</a>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            <a href="Introdução ao JavaScript/Colocando em prática">Colocando em prática</a>
+                            <a href="https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Introdu%C3%A7%C3%A3o%20ao%20Javascript/Colocando%20em%20pr%C3%A1tica">Colocando em prática</a>
                         </td>
                     </tr>
                     <tr>
