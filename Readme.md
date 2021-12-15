@@ -1,7 +1,7 @@
 # Curso JS - Bootcamp INTER
 
 ![Série](https://img.shields.io/badge/ZairoBastos-BootcampInter-blue)
-[![licence mit](https://img.shields.io/badge/licence-MIT-orange.svg)](./LINCENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-orange.svg)](https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/blob/master/LICENSE)
 
 > Nesse repositório irei disponibilizar todas as práticas dos módulos de javascript do bootcamp do Banco **INTER**.
 
