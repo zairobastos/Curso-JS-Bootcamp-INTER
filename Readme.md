@@ -8,7 +8,53 @@
 ### Tópicos desse repositório
 <div>
     <details>
-        <summary>Aula 1 - Sintaxe Básica JS ✅</summary>
+        <summary>Aula 1 - Introdução ao JavaScript ✅</summary>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Conteúdo
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            O que é o JavaScript?
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Recursos básicos da linguagem
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Introdução ao JavaScript/Console">Console</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Introdução ao JavaScript/JS na web">JavaScript em uma página da web</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Introdução ao JavaScript/Colocando em prática">Colocando em prática</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Mercado de Trabalho
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>
+    <details>
+        <summary>Aula 2 - Sintaxe Básica JS ✅</summary>
         <div>
             <table>
                 <thead>
@@ -54,7 +100,7 @@
         </div>
     </details>
     <details>
-        <summary>Aula 2 - Sintaxe e Operadores ✅</summary>
+        <summary>Aula 3 - Sintaxe e Operadores ✅</summary>
         <div>
             <table>
                 <thead>
@@ -78,7 +124,7 @@
                 </tbody>
             </table>
         </div>
-    <details>
+    </details>    
 </div>
 
 ## History/Histórico
