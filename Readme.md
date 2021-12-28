@@ -124,7 +124,115 @@
                 </tbody>
             </table>
         </div>
-    </details>    
+    </details>
+    <details>
+        <summary>Aula 4 - Variáveis e Tipos ✅</summary>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Conteúdo
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            Atribuindo Valores
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Tipos
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Variáveis-e-Tipos">Atividade Prática</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>  
+    <details>
+        <summary>Aula 5 - Funções ✅</summary>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Conteúdo
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                        Tipos de Função
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Parâmetros
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Loops
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            This
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Arrow Function
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Funcoes">Atividade Prática</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>
+    <details>
+        <summary>Aula 6 - Coleções ✅</summary>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Conteúdo
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            Map
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Set
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="Colecoes">Atividade Práticas</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>  
 </div>
 
 ## History/Histórico
