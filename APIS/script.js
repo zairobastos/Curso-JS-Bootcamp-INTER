@@ -20,7 +20,7 @@ const getCats = async ()=>{
     }
 }
 const loadImg = async () => {
-    gatos= await getCats();
+    let gatos= await getCats();
     imageCat.src = gatos.webpurl;
 }
 
